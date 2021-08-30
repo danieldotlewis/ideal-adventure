@@ -1,26 +1,16 @@
 import React from "react";
 import Nav from "./components/Nav";
-import logo from "./logo.svg";
-import "./App.css";
+import Slider from "./components/Slider";
+import Footer from "./components/Footer";
+import OffCanvas from "./components/Offcanvas";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Nav></Nav>
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          UMI IT Landing Page
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
+      <Slider></Slider>
+      <Footer></Footer>
+      <OffCanvas></OffCanvas>
     </div>
   );
 }
