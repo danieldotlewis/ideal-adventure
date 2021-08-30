@@ -1,7 +1,7 @@
 import React from "react";
 function Nav(props) {
   return (
-    <header>
+    <div>
       <nav
         class="gls-navbar-container"
         gls-navbar="dropbar: true; dropbar-mode: push"
@@ -11,7 +11,7 @@ function Nav(props) {
             <img
               src="https://utahhealthcare.github.io/gloss-docs/images/uhealth-logo.svg"
               width="150"
-              alt="utah health care"
+              alt="utah health logo"
             />
           </a>
 
@@ -140,7 +140,7 @@ function Nav(props) {
         </div>
       </nav>
       <div class="gls-navbar-dropbar"></div>
-    </header>
+    </div>
   );
 }
 

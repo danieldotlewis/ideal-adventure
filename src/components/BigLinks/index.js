@@ -10,7 +10,7 @@ function BigLinks(params) {
         >
           <div>
             <a
-              href=""
+              href="/"
               class="gls-card gls-card-primary gls-card-body gls-card-hover gls-link-toggle gls-flex gls-flex-middle gls-flex-center gls-text-center"
             >
               <span
@@ -24,7 +24,7 @@ function BigLinks(params) {
           </div>
           <div>
             <a
-              href=""
+              href="/"
               class="gls-card gls-card-primary gls-card-body gls-card-hover gls-link-toggle gls-flex gls-flex-middle gls-flex-center gls-text-center"
             >
               <span
@@ -38,7 +38,7 @@ function BigLinks(params) {
           </div>
           <div>
             <a
-              href=""
+              href="/"
               class="gls-card gls-card-primary gls-card-body gls-card-hover gls-link-toggle gls-flex gls-flex-middle gls-flex-center gls-text-center"
             >
               <span
@@ -52,7 +52,7 @@ function BigLinks(params) {
           </div>
           <div>
             <a
-              href=""
+              href="/"
               class="gls-card gls-card-primary gls-card-body gls-card-hover gls-link-toggle gls-flex gls-flex-middle gls-flex-center gls-text-center"
             >
               <span

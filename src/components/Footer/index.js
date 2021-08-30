@@ -81,6 +81,18 @@ function Footer(props) {
                 <li>
                   <a
                     class="gls-link-reset"
+                    href="//healthcare.utah.edu/hospital/customer-service/interpreter.php"
+                  >
+                    <span
+                      class="gls-margin-small-right"
+                      gls-icon="icon: translate"
+                    ></span>
+                    Find an Interpreter
+                  </a>
+                </li>
+                <li>
+                  <a
+                    class="gls-link-reset"
                     href="//healthcare.utah.edu/hospital/rights.php"
                   >
                     Patient Rights &amp; Responsibilities
@@ -132,7 +144,7 @@ function Footer(props) {
                   <img
                     src="https://utahhealthcare.github.io/gloss-docs/images/uhealth-logo.svg"
                     width="180"
-                    alt="uhealth-logo"
+                    alt=""
                   />
                 </a>
               </p>
@@ -144,13 +156,19 @@ function Footer(props) {
               <p class="gls-h3 gls-text-primary gls-margin">801-555-5555</p>
               <ul class="gls-iconnav gls-flex-inline">
                 <li>
-                  <a href gls-icon="icon: twitter;">twitter</a>
+                  <a href gls-icon="icon: twitter;">
+                    twitter
+                  </a>
                 </li>
                 <li>
-                  <a href gls-icon="icon: facebook;">facebook</a>
+                  <a href gls-icon="icon: facebook;">
+                    facebook
+                  </a>
                 </li>
                 <li>
-                  <a href gls-icon="icon: youtube;">youtube</a>
+                  <a href gls-icon="icon: youtube;">
+                    youtube
+                  </a>
                 </li>
               </ul>
               <p class="gls-text-left gls-text-small">
